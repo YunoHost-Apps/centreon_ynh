@@ -1,6 +1,8 @@
 # Centreon app for YunoHost
 Centreon Server
 
+# NOT WORK IS IN DEV !
+
 - [Yunohost project](https://yunohost.org)
 - [Centreon website](https://www.centreon.com/)
 
