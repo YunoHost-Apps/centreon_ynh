@@ -3,8 +3,6 @@ Centreon Server
 
 # NOT WORK IS IN DEV !
 
-http://sugarbug.fr/atelier/installations/debian/debian9_centreon_1810/
-
 - [Yunohost project](https://yunohost.org)
 - [Centreon website](https://www.centreon.com/)
 
